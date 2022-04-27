@@ -1,7 +1,0 @@
-﻿  file.c
-C:\Users\kubsl\Desktop\studia\PK2\Projekt\DlugoscWyrazow\DlugoscWyrazow\file.c(19,45): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
-  main.c
-  run.c
-  words.c
-  Generowanie kodu...
-  DlugoscWyrazow.vcxproj -> C:\Users\kubsl\Desktop\studia\PK2\Projekt\DlugoscWyrazow\x64\Debug\DlugoscWyrazow.exe
